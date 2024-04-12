@@ -1,16 +1,11 @@
-# flutter_practice
+<h3>flutter練習に作成したアプリ</h3>
+<h6>制作物概要</h6>
+  テキストフィールドに入力し、送信ボタンを押すと入力したテキストが全角スペースで区切られ、ランダム表示の画像とともに表示される。動きとしてはいわゆるおみくじアプリとほぼ同様。
+<br>
+<img src=./screen.
 
-A new Flutter project.
+<h6>作成背景</h6>
+  基本的なflutterの使い方を学ぶために作成した。これを作ろうと思い立った理由は、ゆるいLINEスタンプを日常的に使っており「こういうワードのやつ欲しいよね」と頻繁に友人と話していたことから、じゃあ好きな言葉入れられるものをflutterの練習でつくればよいのでは、となったから。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h6>今後の課題</h6>
+　今回はあくまでもflutterを少し使えるようになることが目的だったので、データベースには手を出していない。firebaseの使い方も学習し、flutterと組み合わせて使えるようにしたい。
